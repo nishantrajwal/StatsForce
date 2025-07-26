@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <!-- Purple gradient to match StatsForce logo -->
+    <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#7c3aed;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6366f1;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+
+  
+  <!-- L-shaped chart axes -->
+  <path d="M15,25 L15,75 L85,75" 
+        stroke="url(#purpleGradient)" 
+        stroke-width="3" 
+        stroke-linecap="round" 
+        stroke-linejoin="round" 
+        fill="none"/>
+  
+  <!-- Larger chart line - simple zig zag with 2 transitions, spaced from Y-axis -->
+  <polyline points="25,65 40,35 65,50 85,25" 
+            stroke="url(#purpleGradient)" 
+            stroke-width="5" 
+            stroke-linecap="round" 
+            stroke-linejoin="round" 
+            fill="none"/>
+  
+  <!-- Larger dots at transition points -->
+  <circle cx="25" cy="65" r="3" fill="url(#purpleGradient)"/>
+  <circle cx="40" cy="35" r="3" fill="url(#purpleGradient)"/>
+  <circle cx="65" cy="50" r="3" fill="url(#purpleGradient)"/>
+  <circle cx="85" cy="25" r="3" fill="url(#purpleGradient)"/>
+  
+  <!-- Larger axis lines -->
+  <line x1="15" y1="75" x2="85" y2="75" stroke="url(#purpleGradient)" stroke-width="2"/>
+  <line x1="15" y1="25" x2="15" y2="75" stroke="url(#purpleGradient)" stroke-width="2"/>
+</svg>
