@@ -2,7 +2,7 @@
 
 **StatsForce** is a dynamic frontend web app that provides deep insights into Codeforces user profiles using real-time data from the official Codeforces API. Designed with modern UI principles and powered by Chart.js, StatsForce helps users visualize their rating trends, problem-solving patterns, and contest performance — all in an interactive and mobile-friendly dashboard.
 
-**Live Demo**: [Try StatsForce Now](https://adit8676.github.io/StatsForce/)
+**Live Demo**: [Try StatsForce Now](https://nishantrajwal.github.io/StatsForce/)
 
 ---
 
@@ -40,13 +40,13 @@
 
 ## Screenshots
 
-![StatsForce Intro](https://github.com/Adit8676/StatsForce/blob/main/assests/StatsForce%20Intro.png?raw=true)
+![StatsForce Intro](https://github.com/nishantrajwal/StatsForce/blob/main/assests/StatsForce%20Intro.png?raw=true)
 
-![StatsForce Topic Stats](https://github.com/Adit8676/StatsForce/blob/main/assests/StatsForce%20Topic%20Stats.png?raw=true)
+![StatsForce Topic Stats](https://github.com/nishantrajwal/StatsForce/blob/main/assests/StatsForce%20Topic%20Stats.png?raw=true)
 
-![StatsForce Rating Graph](https://github.com/Adit8676/StatsForce/blob/main/assests/StatsForce%20Rating%20Graph.png?raw=true)
+![StatsForce Rating Graph](https://github.com/nishantrajwal/StatsForce/blob/main/assests/StatsForce%20Rating%20Graph.png?raw=true)
 
-![StatsForce Contest Stats](https://github.com/Adit8676/StatsForce/blob/main/assests/StatsForce%20Contest%20Stats.png?raw=true)
+![StatsForce Contest Stats](https://github.com/nishantrajwal/StatsForce/blob/main/assests/StatsForce%20Contest%20Stats.png?raw=true)
 
 ---
 
@@ -56,6 +56,5 @@
 
 ---
 
-Developed by [Aditya Singh](mailto:aditya09313@gmail.com) **|** [LinkedIn](https://linkedin.com/in/aditya8676) **|** [Codeforces](https://codeforces.com/profile/Aditya8676)
-
+Developed by [Nishant Rajwal](nishantrajwal@gmail.com) **|** [LinkedIn](https://www.linkedin.com/in/nishant-rajwal-9bb5a7342/) 
 
