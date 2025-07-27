@@ -64,5 +64,6 @@
 
 ---
 
-Developed by [Nishant Rajwal](nishantrajwal@gmail.com) **|** [LinkedIn](https://www.linkedin.com/in/nishant-rajwal-9bb5a7342/) 
+Developed by [Nishant Rajwal](mailto:nishantrajwal@gmail.com) **|** [LinkedIn](https://www.linkedin.com/in/nishant-rajwal-9bb5a7342/)
+
 
