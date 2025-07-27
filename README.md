@@ -40,13 +40,18 @@
 
 ## Screenshots
 
-![StatsForce Intro](https://github.com/nishantrajwal/StatsForce/blob/main/assests/StatsForce%20Intro.png?raw=true)
+### Intro
+![StatsForce Intro](https://github.com/nishantrajwal/StatsForce/blob/main/css/assests/StatsForce%20Intro.png?raw=true)
 
-![StatsForce Topic Stats](https://github.com/nishantrajwal/StatsForce/blob/main/assests/StatsForce%20Topic%20Stats.png?raw=true)
+### Topic Statistics
+![StatsForce Topic Stats](https://github.com/nishantrajwal/StatsForce/blob/main/css/assests/StatsForce%20Topic%20Stats.png?raw=true)
 
-![StatsForce Rating Graph](https://github.com/nishantrajwal/StatsForce/blob/main/assests/StatsForce%20Rating%20Graph.png?raw=true)
+### Rating Graph
+![StatsForce Rating Graph](https://github.com/nishantrajwal/StatsForce/blob/main/css/assests/StatsForce%20Rating%20Graph.png?raw=true)
 
-![StatsForce Contest Stats](https://github.com/nishantrajwal/StatsForce/blob/main/assests/StatsForce%20Contest%20Stats.png?raw=true)
+### Contest Statistics
+![StatsForce Contest Stats](https://github.com/nishantrajwal/StatsForce/blob/main/css/assests/StatsForce%20Contest%20Stats.png?raw=true)
+
 
 ---
 
